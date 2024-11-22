@@ -1,4 +1,3 @@
-Here’s a structured and concise GitHub file content for the JUD-X project, highlighting its features, challenges, solutions, and impact.  
 
 ---
 
